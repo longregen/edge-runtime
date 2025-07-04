@@ -16,6 +16,7 @@ yarn.lock
 .idea
 *sublime*
 nbproject
+result
 
 
 # test
@@ -29,6 +30,7 @@ coverage
 
 # build files
 .pnpm-debug.log
+.pnpm-store
 .turbo
 docs/.next
 docs/node_modules
